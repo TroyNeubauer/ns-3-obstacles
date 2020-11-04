@@ -1,0 +1,6 @@
+build/
+.waf-1.7.16-9ca17eb492c97b689870b4ff9db75880/
+.lock-waf_linux2_build
+
+#Data output files
+*.csv
